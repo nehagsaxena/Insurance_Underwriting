@@ -2,6 +2,7 @@
 ## Implementation Outline for Databricks Mosaic AI
 
 ---
+<img width="838" height="789" alt="image" src="https://github.com/user-attachments/assets/1060f390-f796-4229-b220-18a1712f8734" />
 
 ## 1. Solution Architecture Overview
 
